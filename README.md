@@ -179,7 +179,11 @@ Fine-tuning allows BERT to adapt its pretrained representations specifically for
 The overall architecture of this project is illustrated below.
 
 <p align="center">
-  <img src="images/architecture.png" width="1000">
+  <img src="images/architecture(1).png" width="1000">
+</p>
+
+<p align="center">
+  <img src="images/architecture(2).png" width="1000">
 </p>
 
 ---
