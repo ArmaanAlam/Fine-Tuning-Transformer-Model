@@ -270,11 +270,9 @@ Advantages of BERT include:
 
 ```
 .
-├── architecture.py
 ├── main.py
 ├── predictor.py
 ├── test.py
-├── model_weights.pth
 ├── README.md
 ├── requirements.txt
 └── images
